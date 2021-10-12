@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628444062 source:c:\users\hsc\desktop\c++\file handeling #1\main.cpp
+	<iostream>
+	<fstream>
+

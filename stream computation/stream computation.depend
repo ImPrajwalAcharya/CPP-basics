@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628073182 source:c:\users\hsc\desktop\c++\stream computation\main.cpp
+	<iostream>
+	<cstring>
+
